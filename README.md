@@ -1,0 +1,2 @@
+# Audio-and-video-big-data-analytics-in-cloud-computing
+This project focuses on Audio and Video Big Data Analytics using Cloud Computing. Large-scale multimedia data is processed and analyzed using Python in a cloud environment. The notebook demonstrates preprocessing, feature extraction, and analysis techniques, showing how cloud platforms efficiently handle compute-intensive audio and video analytics.
